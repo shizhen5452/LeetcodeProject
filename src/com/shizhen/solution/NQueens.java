@@ -5,6 +5,9 @@ import java.util.List;
 
 public class NQueens {
 
+    /**
+     * https://leetcode.com/problems/n-queens/description/
+     */
     public static List<List<String>> solveNQueen(int n) {
         List<List<String>> res = new ArrayList<>();
         int[] cols = new int[n];
