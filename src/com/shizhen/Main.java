@@ -10,6 +10,7 @@ public class Main {
         //System.out.println(CoinChange.coinChange(new int[]{1,2,5},11));
         //System.out.println(DeleteOperationForTwoStrings.minDistance("snerea","ieatuupo"));
         //System.out.println(SumOfTwoIntegers.getSum(765,987));
+        //System.out.println(LicenseKeyFormatting.licenseKeyFormatting("2-5g-3-J", 2));
     }
 
 }
