@@ -11,6 +11,7 @@ public class Main {
         //System.out.println(DeleteOperationForTwoStrings.minDistance("snerea","ieatuupo"));
         //System.out.println(SumOfTwoIntegers.getSum(765,987));
         //System.out.println(LicenseKeyFormatting.licenseKeyFormatting("2-5g-3-J", 2));
+        //System.out.println(FreedomTrail.findRotateSteps("xrrakuulnczywjs","jrlucwzakzussrlckyjjsuwkuarnaluxnyzcnrxxwruyr"));
     }
 
 }
