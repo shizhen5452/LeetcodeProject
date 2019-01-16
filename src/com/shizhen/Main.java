@@ -12,6 +12,7 @@ public class Main {
         //System.out.println(SumOfTwoIntegers.getSum(765,987));
         //System.out.println(LicenseKeyFormatting.licenseKeyFormatting("2-5g-3-J", 2));
         //System.out.println(FreedomTrail.findRotateSteps("xrrakuulnczywjs","jrlucwzakzussrlckyjjsuwkuarnaluxnyzcnrxxwruyr"));
+        //System.out.println(LongestIncreasingPathInMatrix.longestIncreasingPath(new int[][]{{9,9,4},{6,6,8},{2,1,1}}));
     }
 
 }
